@@ -8,13 +8,16 @@
 * github.com
 * firebase.com
 
-hybrid frameworks:
+render frameworks:
 
 * jquery
+
 * react.js
 * angular.js
 * ember.js
 * polymer
+
+style frameworks:
 
 * bootstrap
 * foundation
