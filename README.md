@@ -8,7 +8,13 @@
 * github.com
 * firebase.com
 
-style frameworks:
+js frameworks:
+
+* jquery
+* react.js
+* angular.js
+
+style/componets frameworks:
 
 * polymer
 * bootstrap
