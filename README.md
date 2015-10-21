@@ -1,4 +1,42 @@
-My Awesome Book
-=======
+# Open Web Development (開源開發 Web)
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本書著重使用線上資源服務開發 Web
+
+* oauth.io
+* parse.com
+* twitch.tv
+* github.com
+* firebase.com
+
+style frameworks:
+
+* polymer
+* bootstrap
+
+layout frameworks:
+
+* 960 grid
+* zen
+
+layout orientation:
+
+* RWD
+
+css lang:
+
+* sass
+* less
+
+js lang:
+
+* livescript
+* coffescript
+
+js Orientation:
+
+* promise
+* rxjs
+
+## License
+
+CC by 4.0
