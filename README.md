@@ -53,7 +53,6 @@ Building System
 * aster
 * gulp
 * grunt
-* browserify
 * webpack
 
 Package System
@@ -61,6 +60,10 @@ Package System
 * npm
 * bower
 * yo (generator)
+
+Beautifier:
+
+* browserify for dependencies
 
 ## License
 
