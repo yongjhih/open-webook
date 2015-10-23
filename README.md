@@ -8,13 +8,14 @@
 * github.com
 * firebase.com
 
-render frameworks:
+js frameworks:
 
 * jquery
 
 * react.js
 * angular.js
 * ember.js
+* backbone
 * polymer
 
 style frameworks:
