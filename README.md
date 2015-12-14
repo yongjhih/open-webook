@@ -19,6 +19,12 @@ frameworks:
 libraries:
 
 * jquery
+* underscore
+* lodash
+* xhr
+* fetch
+* promise
+* rxjs
 
 controls/components:
 
