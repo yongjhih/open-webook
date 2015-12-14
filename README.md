@@ -8,9 +8,7 @@
 * github.com
 * firebase.com
 
-js frameworks:
-
-* jquery
+frameworks:
 
 * react.js
 * angular.js
@@ -18,7 +16,11 @@ js frameworks:
 * backbone
 * polymer
 
-style frameworks:
+libraries:
+
+* jquery
+
+controls/components:
 
 * bootstrap
 * foundation
@@ -43,27 +45,27 @@ js lang:
 * livescript
 * coffescript
 
-js Orientation:
+js orientation:
 
 * promise
 * rxjs
 
-Building System
+build script:
 
 * aster
 * gulp
 * grunt
-* webpack
 
-Package System
+js moduling:
+
+* webpack
+* browserify
+
+dependency:
 
 * npm
 * bower
 * yo (generator)
-
-Beautifier:
-
-* browserify for dependencies
 
 ## License
 
