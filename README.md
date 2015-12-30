@@ -73,6 +73,11 @@ dependency:
 * bower
 * yo (generator)
 
+## See Also
+
+* https://react.parts/
+* https://github.com/react-component
+
 ## License
 
 CC by 4.0
